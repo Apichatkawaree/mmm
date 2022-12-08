@@ -1,0 +1,36 @@
+h1 {
+    font-size: 50px;
+
+}
+
+.a-flex {
+    width: 130px;
+    height: 40px;
+    left: 709px;
+    top: 9px;
+}
+
+.d-flex {
+    width: 130px;
+    height: 40px;
+    left: 880px;
+    top: 10px;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.carousel-inner {
+    background-color: rgb(0, 0, 0);
+}
+
+.card-body {
+    background-color: #ffffff;
+    font-style: normal;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.534);
+    color: #000;
+}
